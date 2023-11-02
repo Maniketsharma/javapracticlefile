@@ -1,5 +1,4 @@
 abstract class GeometricShape {
-
 /*write a programme to create an abstract class GeomatricShape with abstract method 
 area() and perimeter(). create subclass Triangle and Square that extends the GeomatricShape class and implement the respective methode to calculate area and perimeter of each shape.  */
 
